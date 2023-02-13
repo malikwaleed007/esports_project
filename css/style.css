@@ -2373,3 +2373,23 @@ fieldset[disabled] .s-btn {
 .s-swiper__pagination-v1--dark .swiper-pagination-bullet-active {
   background: #13b1cd;
 }
+.swiper-wrapper .container .text1{
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Anton', sans-serif;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  margin-top: 400px;
+}
+.swiper-wrapper .container .text2{
+  text-align: center;
+  color:whitesmoke;
+  margin-top: 350px;
+
+}
+.text-primary{
+  color: black;
+}
+#js__scroll-to-section .text-primary{
+  font-style: italic;
+  color: #1095ac;
+}
