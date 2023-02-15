@@ -2378,16 +2378,18 @@ fieldset[disabled] .s-btn {
   color: whitesmoke;
   font-family: 'Anton', sans-serif;
   font-family: 'Mochiy Pop P One', sans-serif;
-  margin-top: 400px;
+  margin-top: 420px;
 }
 .swiper-wrapper .container .text2{
   text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-family: 'Mochiy Pop P One', sans-serif;
   color:whitesmoke;
-  margin-top: 350px;
+  margin-top: 370px;
 
 }
 .text-primary{
-  color: black;
+  color:#1095ac;
 }
 #js__scroll-to-section .text-primary{
   font-style: italic;
