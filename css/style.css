@@ -2376,14 +2376,12 @@ fieldset[disabled] .s-btn {
 .swiper-wrapper .container .text1{
   text-align: center;
   color: whitesmoke;
-  font-family: 'Anton', sans-serif;
-  font-family: 'Mochiy Pop P One', sans-serif;
+  
   margin-top: 420px;
 }
 .swiper-wrapper .container .text2{
   text-align: center;
-  font-family: 'Anton', sans-serif;
-  font-family: 'Mochiy Pop P One', sans-serif;
+  
   color:whitesmoke;
   margin-top: 370px;
 
@@ -2395,3 +2393,10 @@ fieldset[disabled] .s-btn {
   font-style: italic;
   color: #1095ac;
 }
+.readmore{
+  color: brown;
+}
+
+
+
+
