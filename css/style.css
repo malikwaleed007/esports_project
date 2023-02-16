@@ -2393,8 +2393,8 @@ fieldset[disabled] .s-btn {
   font-style: italic;
   color: #1095ac;
 }
-.readmore{
-  color: brown;
+.row,p .readmore{
+  color:#1095ac;
 }
 
 
